@@ -1,5 +1,5 @@
 # Getting Started
-Install the dependencies and run the project
+Install the dependencies and run the project. It's gonna be real fun.
 ```
 npm install
 npm start
